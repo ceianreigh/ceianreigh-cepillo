@@ -410,7 +410,6 @@ section {
 }
 
 .project-img::after {
-  content: "Project Preview";
   position: absolute;
   inset: 0;
   display: flex;
