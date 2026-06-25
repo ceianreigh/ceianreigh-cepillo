@@ -260,6 +260,7 @@ section {
   border-radius: 4px;
   overflow: hidden;
   position: relative;
+  max-width: 280px;
 }
 .about-photo img {
   width: 100%;
