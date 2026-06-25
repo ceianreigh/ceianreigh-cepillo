@@ -142,7 +142,7 @@ nav {
   position: relative;
 }
 .hero-divider::after {
-  content: "2025";
+  content: "2005";
   position: absolute;
   right: 0;
   top: -0.6rem;
